@@ -2,7 +2,7 @@
 
 Último grupo Fullstack Digital House
 
-...
+---
 
 # Integrantes
 
